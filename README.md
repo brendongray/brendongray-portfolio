@@ -4,7 +4,7 @@ This is my public portfolio for the Telling Stories with Data class.
 # About me
 My name is Brendon. I use he/him pronouns. I'm originally from Albuquerque, NM, land of green chile and the world's largest hot air ballon festival. Here's a picture of what that entails!
 
-![Image of hot air balloon fiesta](best-hot-air-balloon-ride-in-albuquerque-balloon-fiesta.jpg)
+![Image of hot air balloon fiesta](best-hot-air-balloon-ride-in-albuquerque-balloon-fiesta.jpg =100x20)
 
 I'm in the flagship MSPPM program, and I'm working toward a career in state or local government. Outside of school and work, I love to read, write, and cook. 
 
