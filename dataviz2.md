@@ -21,3 +21,5 @@ This data viz is also strong. It enhancnes the first graph by incorporating a ti
 
 In this visualization, I tried to emphasize the change in debt-to-GDP ratio. I thought this was the most interesting element in the grid of lines chart. After experimenting with a few options, I settled on the dot plot with arrows. The goal is for readers to quickly understand the time dimension (2000 to 2018), then start to draw conclusions. After settling with this version, I made improvements by modifying the color scheme. The default Flourish configuration was for the arrows to have a dark blue hue. I found that distracting, and I think the grey arrow shade makes the overall effect much more subtle.
 
+If I had more time to work on this visualization, I would identify ways to make the time difference more obvious. My main concern is that a reader may not immediately understand the time element, making the graphic confusing.
+
