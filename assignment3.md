@@ -16,7 +16,7 @@ Unfortunately, this was a mistake. The relationships were complex and unclear. S
 
 Here's a view of the rushed sketches that made me jump right away into Excel. Fortunately, these were cleaned-up in later stages of the process.
 
-<img src="IMG_20210221_105710.jpg" width="500" height="500"/>
+<img src="IMG_20210221_105710.jpg" width="500" height="300"/>
 
 ### Step 2: Discussing
 
