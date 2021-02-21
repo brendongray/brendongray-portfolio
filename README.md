@@ -13,4 +13,6 @@ My primary goal for this class is to strenthen my process of making data visuali
 
 # Portfolio
 
+[Assignment 3] (https://brendongray.github.io/brendongray-portfolio/assignment3.html)
+
 
