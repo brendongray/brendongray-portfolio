@@ -2,40 +2,29 @@
 
 ## The Original Visualization
 
-For this assignment, I chose a data visualization from the policy advocacy non-profit [New Mexico Voices for Children](https://www.nmvoices.org/). I chose this visualization first because NM Voices does a lot of policy work in New Mexico, my home state. The visual comes from the [2020 KIDS COUNT databook](https://www.nmvoices.org/wp-content/uploads/2021/02/KidsCount-DataBook2020-web.pdf), published annually. It's intended for state lawmakers and policy practitioners, especially those working in education policy. The visualization below caught my attention because it presented an interesting relationship between two variables. I thought it could be improved because it wasn't easy to draw conclusions on first glance, but I thought it had important implications.
+For this assignment, I chose a data visualization from the [2020 KIDS COUNT databook](https://www.nmvoices.org/wp-content/uploads/2021/02/KidsCount-DataBook2020-web.pdf), published annually by New Mexico Voices for Children. It's intended for state lawmakers and policy practitioners, especially those working in education policy. The visualization below caught my attention because it presented an interesting relationship between two variables. I thought it could be improved because it wasn't easy to draw conclusions on first glance, but I thought it had important implications.
 
 ![Example Data Viz](Screenshot 2021-02-21 093332.png)
 Image taken from "2020 New Mexico KIDS COUNT Data Book: Building on Resilience" 2020. Accessed 2/21/2021. https://www.nmvoices.org/wp-content/uploads/2021/02/KidsCount-DataBook2020-web.pdf
 
-### My Critique
-
-**Aesthetic:** The main tone is brown with some orange and purple. On top of the flat color, there are a lot of numbers close to one another, which makes it overwhelming to look at.
-
-**Content:** The visual works because it asks an interesting question: what is the relationship between the percentage of households receiving SNAP assistance and the percentage of child food insecurity? This works well because it's unique and the relationship is not at once obvious. A curious reader wants to dig in. The intended audience is policymakers and those with policy backgrounds, and the designer understood this format would work for audience. The visual contains specific information and sparks a question. A general relationship between the two variables can be drawn, and that relationship can, at a high-level, inform policy recommendations. 
-
-**Issues:** The visual lacks clarity and some level of context. First, the visualization is not visually appealing. An average person might not bother to look for the relationship in their county because there's a lot of noise. In fact, the only audience who would want to dig deeper are policymakers, and policymakers might prefer a differ visual. For example, a table can convey the needed information in a smaller space. In addition to the aesthetic, the visual lacks some context. The first statistic gives the percentage of households receiving SNAP assistance, and the second gives the percentage of child food insecurity. Because the first is analyzed at the household level and the second is analyzed at the individual child level, it's unclear how they compare. Is a one-to-one comparison appropriate? Is there an intermediate statistic that better captures the relationship? Without the full context, the reader is left with questions.  
+I identified a few issues with the aesthetic of the visual, but my main concerns were with the clarity and context. It's not clear if there is a relationship between households recieving SNAP and food insecure children. The visual indicates there may be. 
 
 ## The Redesign Process
 
 ### Step 1: Preliminary Sketching
 
-The first step in my redesign process was to find the original data. I was able to download the original data from from [Map the Meal Gap](https://www.feedingamerica.org/research/map-the-meal-gap/how-we-got-the-map-data). I started to read about the data and quickly saw information that may not have made it to the final publication visual. After this step, I started making a list of ways I could represent the relationship between the percent of households receiving SNAP and child food insecurity. I quickly sketched a scatterplot and thought I was on to something. I wrangled my data into Excel and started exploring. Before I knew it, I had 4 - 5 scatterplots, each comparing different variables. 
+The first step in my redesign process was to find the original data. I was able to download the original data from from [Map the Meal Gap](https://www.feedingamerica.org/research/map-the-meal-gap/how-we-got-the-map-data). I was quickly seeing how additional context could improve the visualization. For example, the original data source had information on the percent of food insecure children living in homes _eligible_ for SNAP. I experimented with the design in wireframes. My initial thought was to put the data into a scatterplot. I wasn't confident a scatterplot was appropriate, especially because the original authors presented the variables seperately. I decided to include both wireframes when presenting my ideas to others.
 
-Unfortunately, this was a mistake. The relationships were complex and unclear. Simple scatterplots were not going to do the data justice, and I realized just how far I was outside the realm of my expertise. Scatterplots between variables I did not understand just deepened the confusion. Further, I realized that the more complicated I made my redesign, the more likely it was that I misrepresent the information. I took a step back from the software and returned to the suggested work flow in the textbook. 
 
-Here's a view of the rushed sketches that made me jump right away into Excel. Fortunately, these were cleaned-up in later stages of the process.
 
-<img src="IMG_20210221_105710.jpg" width="500" height="300"/>
 
 ### Step 2: Discussing
 
-After the Excel distraction, I consulted with my roommate. Like suggested in the textbook, I started talking generally about what I was working on. My roommate's questions started getting the gears turning in the right direction. I showed her some of my sketches, and she suggested I stay away from a scatterplot. She (rightly) identified there was no clear relationship between the two. Even if there were, the sample was too small to draw any conclusions (n = 30). 
+When I asked two people to give me feedback, I began by talking generally about what I was working on. With both people, their questions started getting the gears turning in the right direction. Once I had described the data and shown my sketches, both immediately suggested I stay away from a scatterplot. The immediate reaction that implying there is a relationship between the two variables might be misleading. Regardless, the sample was too small to draw any conclusions (n = 30). 
 
-We talked for about 20 minutes and I made about 1/4 page of notes. Toward the end of our conversation, she made a very good point: the reader was most likely to care about their county. A bar chart would be best because it conveyed clear information about a single geographic point. That information could be contrasted to the rest of the information, but the info would be important because it represented something personal. I agreed. This reminded me of Evan Peck's "Data is Personal. What We Learned from 42 Interviews in Rural America."
+I talked for about 20 minutes and I took about a page of notes. Toward the end of one conversation, a very good point was made: the reader was most likely to care about their county. A bar chart would be best because it conveyed clear information about a single geographic point. That information could be contrasted to the rest of the information, but the info would be important because it represented something personal. I agreed. This reminded me of Evan Peck's "Data is Personal. What We Learned from 42 Interviews in Rural America."
 
-
-
-Further, I identified in the critique phase that the report's intended audience was policymakers. Policymakers were most likely to care about what the situation looked like for their constituents. If there were actionable policy outcomes tied to the data, they would be best supported if the problem was visualized in their county.
+I decided to improve upon the second wireframe. I wanted to focus on ways to use color, format, and engaging headers to provide useful context.
 
 ### Step 3: Redesigning
 
@@ -56,6 +45,6 @@ I opened my data into flourish studio and began experimenting. Because I had alr
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/5356540"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-Given more time (and expertise in Flourish), I would add a feature where I user could select counties to track across the three variables. This would help tell a more immersive story.
+I like the new visual even though there are significant changes. They're more interesting to look at, and they communicate more context for the reader. Given more time (and expertise in Flourish), I would add a feature where I user could select counties to track across the three variables. This would help tell a more immersive story that was useful for the reader.
 
 
