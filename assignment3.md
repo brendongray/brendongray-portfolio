@@ -12,7 +12,7 @@ For this assignment, I chose a data visualization from the policy advocacy non-p
 
 The first step in my redesign process was to find the original data. I was able to download the original data from from Map the Meal Gap. I started to read about the data and quickly saw information that may not have made it to the final publication visual. After this step, I started making a list of ways I could represent the relationship between the percent of households receiving SNAP and child food insecurity. I quickly sketched a scatterplot and thought I was on to something. I wrangled my data into Excel and started exploring. Before I knew it, I had 4 - 5 scatterplots, each comparing different variables. 
 
-Unfortunately, this was a mistake. The relationships were complex and unclear. Simple scatterplots were not going to do the data justice, and I realized just how far I was outside the realm of my expertise. Further, I realized that the more complicated I made my redesign, the more likely it was that I misrepresent the information. I took a step back from the software and returned to the suggested work flow in the textbook. 
+Unfortunately, this was a mistake. The relationships were complex and unclear. Simple scatterplots were not going to do the data justice, and I realized just how far I was outside the realm of my expertise. Scatterplots between variables I did not understand just deepened the confusion. Further, I realized that the more complicated I made my redesign, the more likely it was that I misrepresent the information. I took a step back from the software and returned to the suggested work flow in the textbook. 
 
 ### Step 2: Discussing
 
@@ -24,9 +24,13 @@ Further, I identified in the critique phase that the report's intended audience 
 
 ### Step 3: Redesigning
 
-I opened my data into flourish studio and began experimenting. Because I had already decided on a bar chart format, this portion of the assignment actually took the least amount of critical thinking. By this point, the visualization was mostly a matter of adding specific elements to help tell the story better. There were three instances of this:
+I opened my data into flourish studio and began experimenting. Because I had already decided on a bar chart format, this portion of the assignment actually took the least amount of critical thinking. I played around with a few ways to combine the three variables, but I found these distracting. I soon settled on three bar charts, one for each variable. Once at this point, the visualization was mostly a matter of adding specific elements to help tell the story better. There were three instances of this:
 
-  1) Adding color. I added color to the counties with the highest rates of child food insecurity. My idea was for the reader to
+  1) Adding color. I added color to the counties with the highest rates of child food insecurity. My idea was for the reader to track the counties with the highest rate of child food insecurity throughout the three visuals. This would not express the full extent of the relationship, but it might start to draw connections between the two.
+  2) Averages. I added the state and national average as a dashed line in two of the visuals. I was struck with how much higher the New Mexico average was than the U.S. average. There was also a large difference across the state, with some doing well and others poorly.
+  3) Headers. I spent a considerable amount of time crafting headers. I wanted the reader to take away a conclusion from the header, not just context. I had 3 - 4 iterations for each of the 3 charts.
+
+### Fianl Redesign
 
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/5356399"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
@@ -37,10 +41,4 @@ I opened my data into flourish studio and began experimenting. Because I had alr
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/5356540"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-
-
-Sections
-
-  - Original data
-  - Comments on the process
-  - Final viz
+Given more time (and expertise in Flourish), I would add a feature where I user could select counties to track across the three variables. This would help tell a more immersive story.
