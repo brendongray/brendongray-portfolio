@@ -7,6 +7,14 @@ For this assignment, I chose a data visualization from the policy advocacy non-p
 ![Example Data Viz](Screenshot 2021-02-21 093332.png)
 Image taken from "2020 New Mexico KIDS COUNT Data Book: Building on Resilience" 2020. Accessed 2/21/2021. https://www.nmvoices.org/wp-content/uploads/2021/02/KidsCount-DataBook2020-web.pdf
 
+### My Critique
+
+Aesthetic: The main tone is brown with some orange and purple. On top of the flat color, there are a lot of numbers close to one another, which makes it overwhelming to look at.
+
+Content: The visual works because it asks an interesting question: what is the relationship between the percentage of households receiving SNAP assistance and the percentage of child food insecurity? This works well because it's unique and the relationship is not at once obvious. A curious reader wants to dig in. The intended audience is policymakers and those with policy backgrounds, and the designer understood this format would work for audience. The visual contains specific information and sparks a question. A general relationship between the two variables can be drawn, and that relationship can, at a high-level, inform policy recommendations. 
+
+Issues: The visual lacks clarity and some level of context. First, the visualization is not visually appealing. An average person might not bother to look for the relationship in their county because there's a lot of noise. In fact, the only audience who would want to dig deeper are policymakers, and policymakers might prefer a differ visual. For example, a table can convey the needed information in a smaller space. In addition to the aesthetic, the visual lacks some context. The first statistic gives the percentage of households receiving SNAP assistance, and the second gives the percentage of child food insecurity. Because the first is analyzed at the household level and the second is analyzed at the individual child level, it's unclear how they compare. Is a one-to-one comparison appropriate? Is there an intermediate statistic that better captures the relationship? Without the full context, the reader is left with questions.  
+
 ## The Redesign Process
 
 ### Step 1: Preliminary Sketching
