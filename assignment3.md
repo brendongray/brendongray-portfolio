@@ -2,7 +2,7 @@
 
 ## The Original Visualization
 
-For this assignment, I chose a data visualization from the [2020 KIDS COUNT databook](https://www.nmvoices.org/wp-content/uploads/2021/02/KidsCount-DataBook2020-web.pdf), published annually by New Mexico Voices for Children. It's intended for state lawmakers and policy practitioners, especially those working in education policy. The visualization below caught my attention because it presented an interesting relationship between two variables. I thought it could be improved because it wasn't easy to draw conclusions on first glance, but I thought it had important implications.
+For this assignment, I chose a data visualization from the [2020 KIDS COUNT databook](https://www.nmvoices.org/wp-content/uploads/2021/02/KidsCount-DataBook2020-web.pdf), published annually by New Mexico Voices for Children. It's intended for state lawmakers and policy practitioners, especially those working in education policy. The visualization below caught my attention because it presented an interesting relationship between two variables: the percent of households that receive SNAP assistance and the percentage of food insecure children. I thought it could be improved because it wasn't easy to draw conclusions on first glance, but I thought it had important implications.
 
 ![Example Data Viz](Screenshot 2021-02-21 093332.png)
 Image taken from "2020 New Mexico KIDS COUNT Data Book: Building on Resilience" 2020. Accessed 2/21/2021. https://www.nmvoices.org/wp-content/uploads/2021/02/KidsCount-DataBook2020-web.pdf
