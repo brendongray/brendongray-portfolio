@@ -2,9 +2,10 @@
 
 ## The Original Visualization
 
-For this assignment, I chose a data visualization from the policy advocacy non-profit New Mexico Voices for Children. I chose this visualization first because NM Voices does a lot of policy work in New Mexico, my home state. The visual comes from the 2020 "KIDS COUNT" databook, published annually. It's indended for state lawmakers and policy practitioners, especially those working in education policy. The visualization below caught my attention because it presented an interesting relationship between two variables. I thought it could be improved because it wasn't easy to draw conclusions on first glance, but I thought it had important implications.
+For this assignment, I chose a data visualization from the policy advocacy non-profit [New Mexico Voices for Children](https://www.nmvoices.org/). I chose this visualization first because NM Voices does a lot of policy work in New Mexico, my home state. The visual comes from the 2020 "KIDS COUNT" databook, published annually. It's intended for state lawmakers and policy practitioners, especially those working in education policy. The visualization below caught my attention because it presented an interesting relationship between two variables. I thought it could be improved because it wasn't easy to draw conclusions on first glance, but I thought it had important implications.
 
 ![Example Data Viz](Screenshot 2021-02-21 093332.png)
+Image taken from "2020 New Mexico KIDS COUNT Data Book: Building on Resilience" 2020. Accessed 2/21/2021. https://www.nmvoices.org/wp-content/uploads/2021/02/KidsCount-DataBook2020-web.pdf
 
 ## The Redesign Process
 
@@ -22,7 +23,7 @@ Here's a view of the rushed sketches that made me jump right away into Excel. Fo
 
 After the Excel distraction, I consulted with my roommate. Like suggested in the textbook, I started talking generally about what I was working on. My roommate's questions started getting the gears turning in the right direction. I showed her some of my sketches, and she suggested I stay away from a scatterplot. She (rightly) identified there was no clear relationship between the two. Even if there were, the sample was too small to draw any conclusions (n = 30). 
 
-We talked for about 20 minutes and I made about 1/4 page of notes. Toward the end of our conversation, she made a very good point: the reader was most likely to care about their county. A bar chart would be best because it conveyed clear information about a single geographic point. That information could be contrasted to the rest of the information, but the info would be important because it represented something personal. I agreeded. This reminded me of Evan Peck's "Data is Personal. What We Learned from 42 Interviews in Rural America."
+We talked for about 20 minutes and I made about 1/4 page of notes. Toward the end of our conversation, she made a very good point: the reader was most likely to care about their county. A bar chart would be best because it conveyed clear information about a single geographic point. That information could be contrasted to the rest of the information, but the info would be important because it represented something personal. I agreed. This reminded me of Evan Peck's "Data is Personal. What We Learned from 42 Interviews in Rural America."
 
 Further, I identified in the critique phase that the report's intended audience was policymakers. Policymakers were most likely to care about what the situation looked like for their constituents. If there were actionable policy outcomes tied to the data, they would be best supported if the problem was visualized in their county.
 
@@ -34,7 +35,7 @@ I opened my data into flourish studio and began experimenting. Because I had alr
   2) Averages. I added the state and national average as a dashed line in two of the visuals. I was struck with how much higher the New Mexico average was than the U.S. average. There was also a large difference across the state, with some doing well and others poorly.
   3) Headers. I spent a considerable amount of time crafting headers. I wanted the reader to take away a conclusion from the header, not just context. I had 3 - 4 iterations for each of the 3 charts.
 
-### Fianl Redesign
+### Final Redesign
 
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/5356399"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
@@ -46,3 +47,5 @@ I opened my data into flourish studio and began experimenting. Because I had alr
 <div class="flourish-embed flourish-chart" data-src="visualisation/5356540"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 Given more time (and expertise in Flourish), I would add a feature where I user could select counties to track across the three variables. This would help tell a more immersive story.
+
+
