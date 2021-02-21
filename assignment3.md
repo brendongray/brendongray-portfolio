@@ -22,7 +22,7 @@ The first step in my redesign process was to find the original data. I was able 
 
 ### Step 2: Discussing
 
-When I asked two people to give me feedback, I began by talking generally about what I was working on. With both people, their questions started getting the gears turning in the right direction. Once I had described the data and shown my sketches, both immediately suggested I stay away from a scatterplot. The immediate reaction that implying there is a relationship between the two variables might be misleading. Regardless, the sample was too small to draw any conclusions (n = 30). 
+When I asked two people to give me feedback, I began by talking generally about what I was working on. With both people, their questions started getting the gears turning in the right direction. Once I had described the data and shown my sketches, both immediately suggested I stay away from a scatterplot. A scatterplot implied that there is a relationship between the two variables. This may be misleading. And regardless of the relationship, the sample was too small to draw any conclusions (n = 30). 
 
 I talked for about 20 minutes and I took about a page of notes. Toward the end of one conversation, a very good point was made: the reader was most likely to care about their county. A bar chart would be best because it conveyed clear information about a single geographic point. That information could be contrasted to the rest of the information, but the info would be important because it represented something personal. I agreed. This reminded me of Evan Peck's "Data is Personal. What We Learned from 42 Interviews in Rural America."
 
