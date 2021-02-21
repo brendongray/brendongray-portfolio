@@ -15,9 +15,9 @@ I identified a few issues with the aesthetic of the visual, but my main concerns
 
 The first step in my redesign process was to find the original data. I was able to download the original data from from [Map the Meal Gap](https://www.feedingamerica.org/research/map-the-meal-gap/how-we-got-the-map-data). I was quickly seeing how additional context could improve the visualization. For example, the original data source had information on the percent of food insecure children living in homes _eligible_ for SNAP. I experimented with the design in wireframes. My initial thought was to put the data into a scatterplot. I wasn't confident a scatterplot was appropriate, especially because the original authors presented the variables seperately. I decided to include both wireframes when presenting my ideas to others.
 
-<img src="1IMG_20210221_165057.jpg" width="800" height="500"/>
+<img src="1IMG_20210221_165057.jpg" width="500" height="300"/>
 
-<img src="IMG_20210221_165050.jpg" width="800" height="500"/>
+<img src="IMG_20210221_165050.jpg" width="500" height="300"/>
 
 
 ### Step 2: Discussing
