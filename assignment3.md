@@ -17,7 +17,7 @@ The first step in my redesign process was to find the original data. I was able 
 
 <img src="1IMG_20210221_165057.jpg" width="100" height="100"/>
 
-<img src="1IMG_20210221_165057.jpg" width="100" height="100"/>
+<img src="IMG_20210221_165050.jpg" width="100" height="100"/>
 
 
 ### Step 2: Discussing
