@@ -14,6 +14,10 @@ The first step in my redesign process was to find the original data. I was able 
 
 Unfortunately, this was a mistake. The relationships were complex and unclear. Simple scatterplots were not going to do the data justice, and I realized just how far I was outside the realm of my expertise. Scatterplots between variables I did not understand just deepened the confusion. Further, I realized that the more complicated I made my redesign, the more likely it was that I misrepresent the information. I took a step back from the software and returned to the suggested work flow in the textbook. 
 
+Here's a view of the rushed sketches that made me jump right away into Excel. Fortunately, these were cleaned-up in later stages of the process.
+
+![Example Sketches](IMG_20210221_105710.jpg)
+
 ### Step 2: Discussing
 
 After the Excel distraction, I consulted with my roommate. Like suggested in the textbook, I started talking generally about what I was working on. My roommate's questions started getting the gears turning in the right direction. I showed her some of my sketches, and she suggested I stay away from a scatterplot. She (rightly) identified there was no clear relationship between the two. Even if there were, the sample was too small to draw any conclusions (n = 30). 
