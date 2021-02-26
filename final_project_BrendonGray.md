@@ -17,6 +17,8 @@ For my project, I want to highlight some of the consequences federal redlining p
 
 Map of average house sale price by census tract.
 
+<img src="untitled.png" width="500" height="300"/>
+
 
 **Header 2:** History of Housing Policy
 
