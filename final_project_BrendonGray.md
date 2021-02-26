@@ -1,7 +1,7 @@
 # Final Project Outline
 
 ## High Level Summary
-For my project, I want to highlight some of the consequences federal redlining policies have on the current Pittsburgh housing market. I am particularly interested in demonstrating the differences across the redlined "border," where adjacent neighborhoods had different access to lending and where those effects are born in the market today. 
+For my project, I want to highlight the consequences federal redlining policies have had on the current Pittsburgh housing market. I am particuarly interested in demonstrating the salience of this issue for Pittsburgh residents.
 
 ## Story Summary
 
@@ -35,7 +35,7 @@ The primary data for my project comes from two sources. First, redlining maps fr
 
 Second, Pittsburgh property sales data is publically available from the [Western Pennsylvania Regional Data Center (WPRDC)](https://data.wprdc.org/dataset/real-estate-sales). These data contains all property transactions since 2013. The benefit of this form of data is the granularity. The property sales can be linked to the redlined maps because each property has a geocoded location. This type of data is contrasted by other housing market data sources, like Zillow, which typically aggregate information at less granular geographies. I plan to spatially join the redlining maps and the property sales data using R (which is the only GIS platform I have experience working in). 
 
-Lastly, I will use the [Zillow Home Value Index (ZHVI)] (https://www.zillow.com/research/data/) for housing market value estimates across large geographies. For example, I will want to provide an average sale price for Pittsburgh at large. This information is best from a commercial sources like Zillow, because it estimates from the entire market, not just those properties with sales in the last 10 years. This will help round out the property sale data from the WPRDC and tell a more accurate, full story. I will not be linking the Zillow data with the redlining maps because there are geography level mismatches.
+Lastly, I will use the [Zillow Home Value Index (ZHVI)](https://www.zillow.com/research/data/) for housing market value estimates across large geographies. For example, I will want to provide an average sale price for Pittsburgh at large. This information is best from a commercial sources like Zillow, because it estimates from the entire market, not just those properties with sales in the last 10 years. This will help round out the property sale data from the WPRDC and tell a more accurate, full story. I will not be linking the Zillow data with the redlining maps because there are geography level mismatches.
 
 Once fully cleaned, I plan to use Tableau to build maps with various levels of granularity. For example, while I plan to display the property sales as individual geographic points, my primary visualizations will involve aggregating data to neighborhoods, Census tracts, or Census block groups. I have (limited) experience with this type of aggregation and manipulation using GIS packages in R.
 
