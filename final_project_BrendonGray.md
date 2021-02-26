@@ -24,7 +24,7 @@ Map of average house sale price by census tract.
 
 Timeline of housing policy in Pittsburgh. 3-4 cards with images and text.
 
-<img src="Timeline wireframe.pdf" width="500" height="500"/>
+<img src="Timeline wireframe.png" width="500" height="500"/>
 
 
 All HOLC zones.
