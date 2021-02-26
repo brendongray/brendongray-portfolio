@@ -17,25 +17,26 @@ For my project, I want to highlight some of the consequences federal redlining p
 
 Map of average house sale price by census tract.
 
-<img src="untitled.png" width="500" height="300"/>
+<img src="untitled.png" width="500" height="500"/>
 
 
 **Header 2:** History of Housing Policy
 
 Timeline of housing policy in Pittsburgh. 3-4 cards with images and text.
 
+<img src="Timeline wireframe.pdf" width="500" height="500"/>
+
 
 All HOLC zones.
 
 
+<img src="untitled (1).png" width="500" height="500"/>
+
+
 Breakdown of differences across redlined grades.
 
+<img src="New Wireframe 2.png" width="500" height="500"/>
 
-
-
-
-  - Overall maps with hover
-  - Focus on specific neighborhoods
 
 Box plots
 
