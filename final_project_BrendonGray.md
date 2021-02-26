@@ -9,10 +9,28 @@ For my project, I want to highlight some of the consequences federal redlining p
 * **Conflict:** 
   * **Point one:** In Pittsburgh, the federal government used lending policies in the 1930s and 1940s to systematic deny access to homeownership to non-white communities and especially Black communities. 
   * **Point two:** The consequences are still borne in the market today. More importantly, the effects on people today.
-* **Resolution:** There are ways for you to find out ways you have benefitted from these policies in Pittsburgh. There are local, state, and federal policies that can start to work against this denial of homeownership.
+* **Resolution:** There are ways for you to find out ways you have benefitted from these policies in Pittsburgh. There are also local, state, and federal policies that can start to work against this denial of homeownership.
 
 # Initial Sketches
-Maps
+
+**Header 1:** The Pittsburgh housing market.
+
+Map of average house sale price by census tract.
+
+
+**Header 2:** History of Housing Policy
+
+Timeline of housing policy in Pittsburgh. 3-4 cards with images and text.
+
+
+All HOLC zones.
+
+
+Breakdown of differences across redlined grades.
+
+
+
+
 
   - Overall maps with hover
   - Focus on specific neighborhoods
