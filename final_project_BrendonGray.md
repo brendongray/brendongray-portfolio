@@ -23,7 +23,7 @@ For my project, I want to highlight some of the consequences federal redlining p
 
 **Header 3:** HOLC Maps and their consequences.
 
-<img src="untitled (1).png" width="500" height="500"/>
+<img src="untitled (1).png" width="700" height="700"/>
 
 Breakdown of differences across redlined grades.
 
