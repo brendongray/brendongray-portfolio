@@ -9,9 +9,6 @@
 <img src="Wireframe 2.png"/>
 
 
-width="700" height="300"
-
-
 # User Research Protocol
 
 **Target audience and selection**
