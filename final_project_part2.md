@@ -40,16 +40,13 @@ Interviewee 2:
 
   - "Add more dimensions to the infographic. Health index, racial make-up, population trends."
 
+No overall recommendations from interviewee 3.
 
+**Changes I plan to make:**
 
-
-a. the target audience you hope to reach with your story; 
-b. your approach to identifying representative individuals to interview; 
-c. your interview script; 
-d. the findings from your interviews; and 
-e. changes you plan on implementing to your visualizations next week to address the issues identified
-
-<iframe src="https://public.tableau.com/views/AllRedliningMap/Sheet1?:embed=y&:display_count=yes&:showVizHome=no" height="divElement.offsetWidth*1.75)+"></iframe>
-![image](https://user-images.githubusercontent.com/78388368/110223938-773b2300-7ea5-11eb-9f37-eb084e21f551.png)
+  1. Adjust color scheme per interviewee 2's recommendation.
+  2. Provide more context to the housing-redlining-systemic racism theme.
+  3. Clarify call to action specifically around reparations. Build on large body of work.
+  4. Consider narrative tools to support reparations call to action (i.e. one family example). (lowest priority)
 
 
