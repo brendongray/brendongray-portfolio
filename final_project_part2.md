@@ -10,7 +10,9 @@ My target audience is people who work in policy or in policy-adjacent fields. Th
 For my interview selection, I reached out to three individuals, described below. I have a good mix of professions, but I do not have a good mix of age or education level. Critically, none of the individuals were Black, which is a big preparation oversight. I'll need to consider ways to clearly state (1) my lack of lived experience and (2) the limited scope of this presentation into racism in America generally.
 
 Interviewee 1: Young engineer living in Pittsburgh. Interviewee 1 does not work in policy, but she has taken some courses in college and keep up with the news. 
+
 Interviewee 2: A communications professional who works on political contracts. Interviewee 2 does not live in Pittsburgh. He has a political science degree.
+
 Interviewee 3: An undergrad studying economics. Interviewee 3 lives in Pittsburgh. He is considering entering either politics or policy.
 
 **Narrative-based Questions**
