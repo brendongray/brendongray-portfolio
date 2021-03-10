@@ -1,14 +1,15 @@
 # Wireframes
 
-<img src="Wireframe 2.png" width="700" height="300"/>
+<img src="Finalized wireframe.png"/>
 
 
-<img src="Final Graphics WF.png" width="700" height="300"/>
+<img src="Final Graphics WF.png"/>
 
 
-<img src="Finalized wireframe.png" width="700" height="300"/>
+<img src="Wireframe 2.png"/>
 
 
+width="700" height="300"
 
 
 # User Research Protocol
