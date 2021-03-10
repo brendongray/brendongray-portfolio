@@ -27,7 +27,7 @@ Interviewee 2: A communications professional who works on political contracts. I
 
 Interviewee 3: An undergrad studying economics. Interviewee 3 lives in Pittsburgh. He is considering entering either politics or policy.
 
-Having identified and scheduled interviews, I then prepared questions for the interviewees. I broke up my questions to be focused on the narrative and the visual elements of my wireframe. My initial idea was to ask each person verbatium the questions. In some instances, the comments came up naturally. For example, as I finished showing the presentation to interviewee 2, he said "the infographic resonated with me," so I didn't follow it up with my first prepared question.
+Having identified and scheduled interviews, I then prepared questions for the interviewees. I broke up my questions to be focused on the narrative and the visual elements of my wireframe. My initial idea was to ask each person verbatim the questions. In some instances, the comments came up naturally. For example, as I finished showing the presentation to interviewee 2, he said "the infographic resonated with me," so I didn't follow it up with my first prepared question.
 
 
 
@@ -49,7 +49,7 @@ Having identified and scheduled interviews, I then prepared questions for the in
 **Recommendations:**
 Interviewee 1: 
 
-  - "Situate [the bubble chart] in the overall presentation, then drill down into redlining." (Interpretted to mean provide more context)
+  - "Situate [the bubble chart] in the overall presentation, then drill down into redlining." (Interpreted to mean provide more context)
   - "Focus on just one family example. Say 'this family is owed X for housing discrimination,' then elaborate that discrimination is much larger than housing."
 
 Interviewee 2:
