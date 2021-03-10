@@ -4,6 +4,24 @@
 
 # User Research Protocol
 
+
+
+Narrative-based Questions
+| Question | Interviewee 1 Response | Interviewee 2 Response | Interviewee 3 Response |
+| --- | --- | --- | --- |
+| "What is your main takeaway?" | Response 1 | Response 2 | Response 2 |
+| "To what extent (if any) do you resonate with the call to action?" | Response 1 | Response 2 | Response 2 |
+
+Graphics-based Questions
+| Question | Interviewee 1 Response | Interviewee 2 Response | Interviewee 3 Response |
+| --- | --- | --- | --- |
+| "Can you describe your initial reaction(s) of the main graphic?" | Response 1 | Response 2 | Response 2 |
+| "Was anything unclear about the graphics (all)?" | Response 1 | Response 2 | Response 2 |
+| "What did you think of the overall aesthetic of the graphics?" | Response 1 | Response 2 | Response 2 |
+
+
+
+
 a. the target audience you hope to reach with your story; 
 b. your approach to identifying representative individuals to interview; 
 c. your interview script; 
