@@ -1,6 +1,6 @@
 # TSWD Part II
 
-Link to part I.
+[Link to part I] (https://brendongray.github.io/brendongray-portfolio/final_project_BrendonGray.html)
 
 # Wireframes
 
