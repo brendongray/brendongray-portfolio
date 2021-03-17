@@ -1,7 +1,9 @@
 # Final Project Outline - Part I
 
 [Link to part II.](https://brendongray.github.io/brendongray-portfolio/final_project_part2.html)
-[Link to part I.](https://brendongray.github.io/brendongray-portfolio/final_project_BrendonGray.html)
+
+[Link to part III.](https://brendongray.github.io/brendongray-portfolio/final_project_part3.html)
+
 [Link to final data story.](https://carnegiemellon.shorthandstories.com/the-consequences-of-redlining-in-pittsburgh/index.html)
 
 ## High Level Summary
