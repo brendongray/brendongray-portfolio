@@ -4,7 +4,7 @@
 
 [Link to part III.](https://brendongray.github.io/brendongray-portfolio/final_project_part3.html)
 
-[Link to final data story.](https://carnegiemellon.shorthandstories.com/the-consequences-of-redlining-in-pittsburgh/index.html))
+[Link to final data story.](https://carnegiemellon.shorthandstories.com/the-consequences-of-redlining-in-pittsburgh/index.html)
 
 # Wireframes
 
