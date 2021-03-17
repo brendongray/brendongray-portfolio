@@ -1,5 +1,5 @@
 # brendongray-portfolio
-This is my public portfolio for the Telling Stories with Data class. See below in the Portfolio section for for links to my portfolio for this class.
+This is my public portfolio for the Telling Stories with Data class. I completed a data visualization project on redlining in Pittsburgh, which you can see [here.](https://carnegiemellon.shorthandstories.com/the-consequences-of-redlining-in-pittsburgh/index.html). See below to see the three major sections of this project.
 
 # About me
 My name is Brendon Gray. I use he/him pronouns. I'm originally from Albuquerque, NM, land of green chile and the world's largest hot air ballon fiesta (pictured below!).
