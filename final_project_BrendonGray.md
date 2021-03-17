@@ -1,4 +1,8 @@
-# Final Project Outline
+# Final Project Outline - Part I
+
+[Link to part II.](https://brendongray.github.io/brendongray-portfolio/final_project_part2.html)
+[Link to part I.](https://brendongray.github.io/brendongray-portfolio/final_project_BrendonGray.html)
+[Link to final data story.](https://carnegiemellon.shorthandstories.com/the-consequences-of-redlining-in-pittsburgh/index.html)
 
 ## High Level Summary
 For my project, I want to highlight the consequences federal redlining policies have had on the current Pittsburgh housing market. I am particularly interested in demonstrating the salience of this issue for Pittsburgh residents.
