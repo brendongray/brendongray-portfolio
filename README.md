@@ -4,7 +4,7 @@ This is my public portfolio for the Telling Stories with Data class. See below i
 # About me
 My name is Brendon Gray. I use he/him pronouns. I'm originally from Albuquerque, NM, land of green chile and the world's largest hot air ballon fiesta (pictured below!).
 
-<img src="best-hot-air-balloon-ride-in-albuquerque-balloon-fiesta.jpg" width="500" height="500"/>
+<img src="best-hot-air-balloon-ride-in-albuquerque-balloon-fiesta.jpg" width="500" height="300"/>
 
 I'm in the flagship MSPPM program, and I'm working toward a career in state or local government. Outside of school and work, I love to read, write, and cook. 
 
