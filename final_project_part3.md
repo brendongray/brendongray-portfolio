@@ -1,8 +1,8 @@
 # Part III
 
-Link to part II.
-Link to part I.
-Link to final data story.
+(Link to part II.)[https://brendongray.github.io/brendongray-portfolio/final_project_part2.html]
+(Link to part I.)[https://brendongray.github.io/brendongray-portfolio/final_project_BrendonGray.html]
+(Link to final data story.)[https://carnegiemellon.shorthandstories.com/the-consequences-of-redlining-in-pittsburgh/index.html]
 
 ## Progress from Part II
 
@@ -16,5 +16,13 @@ In creating my final product, I spent a considerable amount of time framing the 
 
 References
 
+Howell, Junia, Sara Goodkind, Leah Jacobs, Dominique Branson and Elizabeth Miller. 2019. "Pittsburgh's Inequality Across Gender and Race." Gender Analysis White Papers. City of Pittsburgh's Gender Equity Commission. 
 
+Jackson, Kenneth T.. Crabgrass Frontier: The Suburbanization of the United States. United Kingdom, Oxford University Press, USA, 1987.
+
+Jackson Lee, Sheila. "H.R. 40 Is Not a Symbolic Act. It’s a Path to Restorative Justice." May 2020. 
+
+Rothstein, Richard. The Color of Law: A Forgotten History of How Our Government Segregated America. United Kingdom, Liveright, 2017.
+
+Ray, Rashawn and Perry, Andre. "Why we need reparations for Black Americans." The Brookings Institution. (April 2020) 
 
